@@ -1,0 +1,25 @@
+the official PgCoin mining chart, v0.2:
+
+1 PgC - causing a single constraint violation
+
+2 PgC - handling a single constraint violation
+
+10 PgC - requesting functionality UPSERT
+
+20 PgC - requesting functionality UPSERT and naming it "UPSERT"
+
+100 PgC - pasting implementation of UPSERT in plpgsql
+
+200 PgC - pasting implementatino of UPSERT as patch for PostgreSQL
+
+1'000 PgC - pasting a "bug-free" implementation of UPSERT
+
+2'000 PgC - pasting a bug-free implementation of UPSERT
+
+10'000 PgC - highlighting a problem in implementation of UPSERT 
+
+20'000 PgC - highlighting a problem in concept of UPSERT
+
+100'000 PgC - understanding implications of UPSERT
+
+200'000 PgC - explaining implications of UPSERT
