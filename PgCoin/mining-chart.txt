@@ -10,7 +10,7 @@ the official PgCoin mining chart, v0.2:
 
 100 PgC - pasting implementation of UPSERT in plpgsql
 
-200 PgC - pasting implementatino of UPSERT as patch for PostgreSQL
+200 PgC - pasting implementation of UPSERT as patch for PostgreSQL
 
 1'000 PgC - pasting a "bug-free" implementation of UPSERT
 
