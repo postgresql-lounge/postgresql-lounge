@@ -2,4 +2,4 @@
 # COMMENT ::= # [ <comment> ]
 # CHARACTER ::= <nick> ", the " <descriptive adjective> " " <functional noun>
 
-r00s, the serious judge
+r00s, the Magic 8-Ball-esque, serious judge
