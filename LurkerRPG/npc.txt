@@ -1,5 +1,6 @@
 # format:
 # COMMENT ::= # [ <comment> ]
-# CHARACTER ::= <nick> ", the " <descriptive adjective> <functional noun>
+# CHARACTER ::= <nick> ", the " <descriptive adjective> " " <functional noun>
 
 r00s, the serious judge
+_druu, the committed brewer
