@@ -1,0 +1,2 @@
+[12:35] <Myon> I've seen sh scripts that decompile C++ to C
+
