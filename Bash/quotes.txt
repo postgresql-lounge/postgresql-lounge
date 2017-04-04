@@ -1,2 +1,10 @@
 [12:35] <Myon> I've seen sh scripts that decompile C++ to C
-
+%
+[15:21] <Zr40> dexen: why not POST?
+[15:22] <dexen> working on a web app; wanted to be able to click on link and have it open in new tab
+[15:22] <Zr40> <form ... target=_blank>
+[15:23] <dexen> ...
+[15:23] <dexen> 10 years a web developer
+[15:23] <dexen> never realized i can do that
+[15:23] * dexen headdesks
+[15:26] <Zr40> how to headdesk dexen in just 24 bytes
