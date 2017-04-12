@@ -10,3 +10,8 @@
 [15:26] <Zr40> how to headdesk dexen in just 24 bytes
 %
 [14:27] <kus> does bleach evaporate?
+%
+[18:04] <sobel> woo, i won a little prize for highest-severity bug found in a team-wide bugbash
+[18:19] <dexen> a serious bug /is/ a world-open patch/upgrade mechanics ;)
+[18:51] <xiaomiao> "community-administrated servers" you say?
+[18:52] <sobel> >:)
