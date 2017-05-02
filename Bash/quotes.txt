@@ -15,3 +15,7 @@
 [18:19] <dexen> a serious bug /is/ a world-open patch/upgrade mechanics ;)
 [18:51] <xiaomiao> "community-administrated servers" you say?
 [18:52] <sobel> >:)
+%
+[21:36] <sobel> i really should have a lot of sham business cards
+[21:36] <sobel> Especially one introducing me as Bobby; DROP TABLE STUDENTS;
+[21:37] <sobel> related: i'm pretty sure my code is the only code here that bothers to sanitize user inputs when constructing sql.
