@@ -19,3 +19,6 @@
 [21:36] <sobel> i really should have a lot of sham business cards
 [21:36] <sobel> Especially one introducing me as Bobby; DROP TABLE STUDENTS;
 [21:37] <sobel> related: i'm pretty sure my code is the only code here that bothers to sanitize user inputs when constructing sql.
+%
+[15:14] <dev1> is it still possible to find employment in IT without smoking /something/?
+[15:15] <dev2> I quit crack years ago and I'm happily employed
