@@ -24,3 +24,13 @@
 [15:15] <dev2> I quit crack years ago and I'm happily employed
 %
 [15:26] <bonsaikitten> YesSQL is best NoSQL replace ;)
+%
+[07:06] <sobel> it's a short cut so i don't have to count characters when things appear a bit off
+[07:06] <Myon> maybe you just need a hotkey to switch to a monospace font temporarily for that part
+[07:06] <sobel> i'd rather see my code as i prefer it all the time
+[07:07] <sobel> i'm not seeing benefits to kerning my code windows
+[07:08] <Zr40> for me, I just don't see a need to have characters be monospaced all the time
+[07:08] <sobel> it's too bad we can't both have our own separate preferences
+[07:08] <sobel> just a cryin shame
+[07:08] <Zr40> yeah, that's impossible (-:
+[07:09] <sobel> that global profile.ini is really obnoxious
