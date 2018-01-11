@@ -34,3 +34,12 @@
 [07:08] <sobel> just a cryin shame
 [07:08] <Zr40> yeah, that's impossible (-:
 [07:09] <sobel> that global profile.ini is really obnoxious
+%
+<depesz>: you can't really beat PostgreSQL table with single row and single column, which contained xml, which contained cdata, which contained base64 encoded sqlite db file, which contained couple of tables, and several records.
+<depesz>: to minimize deployment time, code was imported into main app, and the sqlite was distributed to all servers (based on idea that the config doesn't change all that much)
+<depesz>: after some time they figured out that syncing the sqlite file was problematic, so "we need something better".
+<depesz>: "we have shared db". so let's put the thing in postgresql.
+<depesz>: but not data from sqlite. sqlite blob.
+<depesz>: since the whole app was in java, xml was "the sensible choice", and in it you can't have binary blobs, so it was encoded, and stored as cdata in xml.
+<depesz>: application, on each start, would get the xml, extract sqlite blob, write it to file, pass name of the file to the original code, and then it would read config from there.
+<depesz>: not sure who exatly was responsible for which decision in this partiocular case.
