@@ -45,3 +45,7 @@
 [12:52] <depesz> not sure who exatly was responsible for which decision in this partiocular case.
 %
 [16:59] <xocolatl> looping is like, bad, man
+%
+[16:34] <sobel> i hacked an email client lib to let me attach body parts from in-memory objects but i broke a bunch of tests and now i gotta figure out how to do it right or fork :(
+[16:34] <sobel> stupid thing only knows how to attach files already on disk
+[16:36] <mst>   come to the perl side, our libraries already work
